@@ -1,8 +1,5 @@
 import java.util.Random;
 
-/**
- * Gerencia a lógica do jogo de adivinhação.
- */
 public class Jogo {
     private Jogador jogador;
     private int numeroSecreto;
