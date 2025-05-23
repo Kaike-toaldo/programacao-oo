@@ -1,3 +1,5 @@
+package ed02.part1;
+
 public class ContaPoupanca extends Conta {
 
     public ContaPoupanca(String cliente, double saldo) {

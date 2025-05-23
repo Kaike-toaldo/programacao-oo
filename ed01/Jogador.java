@@ -1,3 +1,5 @@
+package ed01;
+
 public class Jogador {
     private String nome;
     private int tentativas;

@@ -1,3 +1,5 @@
+package ed02.part1;
+
 public class ContaCorrente extends Conta {
 
     public ContaCorrente(String cliente, double saldo) {

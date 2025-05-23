@@ -1,3 +1,5 @@
+package ed02.part1;
+
 public class Main {
     public static void main(String[] args) {
         ContaCorrente cc = new ContaCorrente("Alice", 1000);

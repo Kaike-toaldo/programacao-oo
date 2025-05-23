@@ -1,3 +1,5 @@
+package ed01;
+
 import java.util.Random;
 
 public class Jogo {

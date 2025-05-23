@@ -1,3 +1,5 @@
+package ed02.part1;
+
 public class Conta {
     protected String cliente;
     protected double saldo;
