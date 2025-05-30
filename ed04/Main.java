@@ -1,8 +1,5 @@
 package ed04;
 
-/**
- * Classe principal que executa a Agenda de Contatos.
- */
 public class Main {
     public static void main(String[] args) {
         ContatoView view = new ContatoView();

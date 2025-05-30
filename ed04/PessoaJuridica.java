@@ -1,8 +1,5 @@
 package ed04;
 
-/**
- * Representa um contato do tipo Pessoa Jurídica.
- */
 public class PessoaJuridica extends ContatoBase {
     private String cnpj;
 

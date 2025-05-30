@@ -1,8 +1,5 @@
 package ed04;
 
-/**
- * Representa um contato do tipo Pessoa Física.
- */
 public class PessoaFisica extends ContatoBase {
     private String cpf;
 

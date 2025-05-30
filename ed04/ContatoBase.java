@@ -1,8 +1,5 @@
 package ed04;
 
-/**
- * Classe abstrata que representa os atributos comuns de um contato.
- */
 public abstract class ContatoBase implements Contato {
     private String nome;
     private String telefone;

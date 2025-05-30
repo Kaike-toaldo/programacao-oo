@@ -3,9 +3,6 @@ package ed04;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Classe responsável pela entrada e exibição de dados no console.
- */
 public class ContatoView {
     private Scanner scanner = new Scanner(System.in);
 

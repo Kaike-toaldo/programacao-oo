@@ -3,9 +3,6 @@ package ed04;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Classe que controla a lógica da aplicação e manipula os contatos.
- */
 public class ContatoController {
     private List<Contato> contatos = new ArrayList<>();
 
