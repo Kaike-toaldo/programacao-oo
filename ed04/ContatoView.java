@@ -32,10 +32,7 @@ public class ContatoView {
         System.out.print(mensagem);
         return scanner.nextLine();
     }
-
-    /**
-     * Lê o nome e valida se tem no mínimo 3 caracteres.
-     */
+    
     public String lerNomeValido(String mensagem) {
         String nome;
         do {
